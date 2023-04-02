@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "email": "akash@gmail.com",
+      "phone": "9344221133",
+      "address": "India",
+      "id": 1,
+      "status": "Active"
+    },
+    {
+      "name": "Bala",
+      "email": "bala@gmail.com",
+      "phone": "992345678",
+      "address": "India",
+      "id": 2,
+      "status": "Active"
+    },
+    {
+      "name": "Chandru",
+      "email": "chandru@gmail.com",
+      "phone": "9344221145",
+      "address": "UK",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "name": "Deepak",
+      "email": "deepak@gmail.com",
+      "phone": "9080908070",
+      "address": "US",
+      "id": 4,
+      "status": "Active"
+    },
+    {
+      "name": "Elango",
+      "email": "elango@gmail.com",
+      "phone": "9344221098",
+      "address": "Newzeland",
+      "id": 5,
+      "status": "Inactive"
+    },
+    {
+      "name": "Ganesamoorthy",
+      "email": "gm@gmail.com",
+      "phone": "9954678907",
+      "address": "India",
+      "id": 6,
+      "status": "Active"
+    },
+    {
+      "name": "Harish",
+      "email": "harish@gmail.com",
+      "phone": "998876600",
+      "address": "Paris",
+      "id": 7,
+      "status": "Inactive"
+    },
+    {
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "phone": "9344221144",
+      "address": "India",
+      "id": 8,
+      "status": "Inactive"
+    },
+    {
+      "name": "Balaji",
+      "email": "balaji@gmail.com",
+      "phone": "039594867398",
+      "address": "Malasia",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "Vickey",
+      "email": "vickey@gmail.com",
+      "phone": "9344221133",
+      "address": "India",
+      "id": 10,
+      "status": "Active"
+    },
+    {
+      "name": "AkashKavin",
+      "email": "ak@gmail.com",
+      "phone": "9344221122",
+      "address": "India",
+      "id": 11,
+      "status": "Active"
+    },
+    {
+      "name": "Chadaiyandi",
+      "email": "chadai@gmail.com",
+      "phone": "9999887766",
+      "address": "Sigabore",
+      "id": 12,
+      "status": "Inactive"
+    },
+    {
+      "name": "Rama Chandran",
+      "email": "ramachandran@gmail.com",
+      "phone": "9589987456",
+      "address": "Srilanga",
+      "id": 13,
+      "status": "Inactive"
+    },
+    {
+      "name": "Pandi",
+      "email": "pandi@gmail.com",
+      "phone": "9355669988",
+      "address": "Srilanga",
+      "id": 14,
+      "status": "Active"
+    },
+    {
+      "name": "Pavithra",
+      "email": "pavi@gmail.com",
+      "phone": "934934568",
+      "address": "India",
+      "id": 15,
+      "status": "Active"
+    },
+    {
+      "name": "Sai Praveen",
+      "email": "sai@gmail.com",
+      "phone": "8979675643",
+      "address": "India",
+      "id": 16,
+      "status": "Active"
+    },
+    {
+      "name": "Madan",
+      "email": "madan@gmail.com",
+      "phone": "8652655788",
+      "address": "UK",
+      "id": 17,
+      "status": "Active"
+    },
+    {
+      "name": "Sutheesh",
+      "email": "suthe@gmail.com",
+      "phone": "5696874521",
+      "address": "Srilanga",
+      "id": 18,
+      "status": "Inactive"
+    },
+    {
+      "name": "Ganapathy",
+      "email": "ganapathy@gmail.com",
+      "phone": "9080708998",
+      "address": "India",
+      "id": 19,
+      "status": "Inactive"
+    },
+    {
+      "name": "Muthu",
+      "email": "ms@gmail.com",
+      "phone": "9325639874",
+      "address": "SouthAfrica",
+      "id": 20,
+      "status": "Active"
+    }
+  ]
+}
